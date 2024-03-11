@@ -26,7 +26,7 @@ This is a simple web application for generating barcodes using JavaScript.
 
 ## Live Demo
 
-[Link](https://vercel.com/new/tushar-guptas-projects/success?developer-id%253D%2526external-id%253D%2526redirect-url%253D%2526branch%253Dmain%2526deploymentUrl%253Dbar-code-generate-ki97s5qg5-tushar-guptas-projects.vercel.app%2526projectName%253Dbar-code-generate-app%2526s%253Dhttps%253A%252F%252Fgithub.com%252Fimtushaarr%252FBarCode-Generate-App%2526gitOrgLimit%253D%2526hasTrialAvailable%253D1%2526totalProjects%253D1)
+[Link](https://vercel.com/new/tushar-guptas-projects/bar-code-generate-app)
 
 
 ## Usage
